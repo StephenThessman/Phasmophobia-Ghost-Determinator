@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Phasmophobia:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Phasmophobia_jar</output-path>
+    <root id="archive" name="Phasphobia.jar">
+      <element id="module-output" name="Phasmophobia" />
+    </root>
+  </artifact>
+</component>
